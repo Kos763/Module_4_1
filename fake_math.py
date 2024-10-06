@@ -1,3 +1,4 @@
+
 def divide(first, second):
     if second == 0:
         result = 'Ошибка'
@@ -5,6 +6,3 @@ def divide(first, second):
         result = first / second
     return result
 
-result2 = divide(3, 0)
-
-result3 = divide(49, 7)
